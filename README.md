@@ -41,6 +41,6 @@ back to the raw string, so it works either way.
 ## Testing
 
 ```bash
-clojure -M:test
-clojure -M:lint
+kbb -M:test
+kbb -M:lint
 ```
